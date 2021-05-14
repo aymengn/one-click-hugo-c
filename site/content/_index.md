@@ -1,7 +1,7 @@
 ---
 title: الملك التقني
 subtitle: موقع لنشر المواضيع التقنية واخر الأخبار حول الربح من الانترنت
-image: /img/home-jumbotron.jpg
+image: img/link-building-concept_23-2147998008.jpg
 blurb:
   heading: ما هي الروابط الخلفية؟
   text: الروابط الخلفية هي روابط من صفحة على موقع إلى آخر ، غالبًا ما يشار إلى هذه
@@ -17,14 +17,15 @@ intro:
     
     لغات البرمجة هي هياكل لغوية نحوية في أجهزة الكمبيوتر يمكن من خلالها وصف الخوارزمية بواسطة تراكيب نحوية مختلفة لتشغيل الكمبيوتر ، مما يجعل من الممكن كتابة برامج لإنتاج برامج جديدة. عادةً ما تحتوي أي لغة برمجة على بيئة برمجية لإدخال نص البرنامج وتنفيذه وتصنيفه وتصحيحه.
 products:
+  - image: https://1.bp.blogspot.com/-YgMrzN3ygig/YJG-cLe8hFI/AAAAAAAAJns/coCuK2MuICEOCunZHMAo89rr0kSC1LoXQCLcBGAsYHQ/s626/5g-high-speed-internet-isometric-composition-with-view-flowchart-with-cloud-earth-globe-icons_1284-54549.webp
+    text: >-
+      ماهي شبكة الجيل الخامس 5G ؟ استخدامات الجيل الخامس | مميزات الجيل الخامس |
+      خصائص شبكة الجيل الخامس
+
+      5g عبارة عن جيل من التكنولوجيا اللاسلكية التي تتبع اتصالات الهاتف المحمول 4G LTE  ، فهي تعمل على ترددات لاسلكية أعلى تسمى موجات المليمتر 
   - image: https://1.bp.blogspot.com/-HNAB2bXbPIw/YJRCykpIg3I/AAAAAAAAJo8/WegmbFTVTvgJWg4yYwmIY9LzejOJTkBDgCLcBGAsYHQ/s620/Xiaomi-Mi-TV-P1.webp
     text: تم تقديم أجهزة تلفزيون Xiaomi MTV P1 في أربعة إصدارات مع جهاز تحكم عن بعد
       جديد ودعم HDMI 2.1 ونظام تشغيل Android TV ودقة 4K.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 values:
   heading: ماهي البرمجة الهيكلية ؟ ماهي تطبيقات البرمجة الهيكلية ؟
   text: >+
