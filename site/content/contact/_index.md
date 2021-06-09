@@ -8,12 +8,11 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+تم تجميع سياسة الخصوصية هذه لتقديم خدمة أفضل لأولئك الذين يهتمون بكيفية استخدام "معلومات التعريف الشخصية" الخاصة بهم 
+(PII) عبر الإنترنت. معلومات التعريف الشخصية ، كما هي مستخدمة في قانون الخصوصية وأمن المعلومات في الولايات المتحدة ، هي معلومات يمكن استخدامها بمفردها أو مع معلومات أخرى لتحديد هوية شخص واحد أو الاتصال به أو تحديد موقعه أو تحديد هوية شخص في السياق.
+ يرجى قراءة سياسة الخصوصية الخاصة بنا بعناية للحصول على فهم واضح لكيفية جمع معلومات التعريف الشخصية الخاصة بك أو استخدامها أو حمايتها أو التعامل معها بطريقة أخرى بما يتوافق مع موقعنا.
+<h3 class="f4 b lh-title mb2">ما هي المعلومات الشخصية التي نجمعها؟</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+عند الطلب أو التسجيل على مواقعنا ، قد يُطلب منك إدخال اسمك أو عنوان بريدك الإلكتروني
+ أو معلومات بطاقة الائتمان أو تفاصيل أخرى لمساعدتك في تجربتك. تمر معلومات بطاقتك عبر بوابة طرف ثالث مثل PayPal
+ مما يعني أن بياناتك مضمونة ولا يتم الاحتفاظ بها في قاعدة البيانات الخاصة بنا.
