@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "ar-AE"
+languageLang = "ar"
 title = "الملك التقني"
 
 # RSS, categories and tags disabled for an easy start
